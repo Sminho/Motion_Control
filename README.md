@@ -4,6 +4,8 @@
 
 FASTECH Ezi-SERVO II Plus-E 제품군에 사용가능한 프로그램 입니다.
 
+프로그램의 소스코드와 사용/개발관련한 문서도 같이 첨부하였습니다.
+
 데모지그를 이용한 시연 영상(썸네일 클릭시 유튜브로 이동)
 -
 [![Video Label](http://img.youtube.com/vi/kBexOIiaKJg/0.jpg)](https://youtu.be/kBexOIiaKJg) [![Video Label](http://img.youtube.com/vi/cDLYNjKweO8/0.jpg)](https://youtu.be/cDLYNjKweO8)
